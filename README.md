@@ -44,3 +44,6 @@
 ## Week 8
 * Transfer Learning: Example
 * RNN's
+
+## Week 9
+* Templates for Deep Learning 
