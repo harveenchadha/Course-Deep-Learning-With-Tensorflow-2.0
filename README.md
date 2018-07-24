@@ -16,6 +16,7 @@
 * Desiging a basic Neural Network in Keras
 
 ## Week 3
+* Starting with Architectures- LeNet
 * Sequential Model
 * Functional API
 * Define a Problem Statement
@@ -28,6 +29,7 @@
 
 ## Week 5
 * Pooling Layers: MaxPooling2D, AveragePooling2D
+* Batch Normalisation
 * Setting Hyperparameters
 * Compile Model
 * Fit Model
