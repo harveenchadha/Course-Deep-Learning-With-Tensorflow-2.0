@@ -16,7 +16,6 @@
 * Desiging a basic Neural Network in Keras
 
 ## Week 3
-* Starting with Architectures- LeNet
 * Sequential Model
 * Functional API
 * Define a Problem Statement
@@ -25,11 +24,11 @@
 ## Week 4
 * Introduction to Convolutional Neural Networks
 * CNN: Intution, kernels/filters
+* Starting with Architectures- LeNet
 * Convolutional Layers: Convolution 2D, Cropping 2D
 
 ## Week 5
 * Pooling Layers: MaxPooling2D, AveragePooling2D
-* Batch Normalisation
 * Setting Hyperparameters
 * Compile Model
 * Fit Model
@@ -39,6 +38,7 @@
 * Data Augmentation
 * Custom Generators
 * fit_generator
+* Batch Normalisation
 
 ## Week 7
 * Saving Model
@@ -48,7 +48,9 @@
 
 ## Week 8
 * Transfer Learning: Example
-* RNN's
+* Transfer Learning Models: VGG16, VGG32
 
 ## Week 9
-* Templates for Deep Learning 
+* Templates for Deep Learning
+* Interesting Industry Use Cases
+* Projects you can take up
