@@ -54,3 +54,6 @@
 * Templates for Deep Learning
 * Interesting Industry Use Cases
 * Projects you can take up
+
+## Week 10
+* Advanced Deep Learning Architectures
