@@ -1,4 +1,4 @@
-# Deep-Learning-In-Keras-Course
+# Deep-Learning-In-Keras-For-Unstructured-Data
 
 ## Week 1
 * What is Keras?
