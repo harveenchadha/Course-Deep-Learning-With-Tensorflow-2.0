@@ -1,4 +1,4 @@
-# Deep-Learning-In-Keras-For-Unstructured-Data
+# Deep Learning for Unstructured Data in Keras (DL-UDK) 
 
 ## Week 1
 * What is Keras?
@@ -18,7 +18,7 @@
 ## Week 3
 * Sequential Model
 * Functional API
-* Define a Problem Statement
+* Define a Problem Statement: Traffic Sign Classification
 * Introduction to Layers: Dense, Activation, Dropout, Flatten, Input, Lambda, Output
 
 ## Week 4
